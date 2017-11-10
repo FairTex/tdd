@@ -1,3 +1,3 @@
-![Alt text](bin/debug/test.jpeg)
-![Alt text](bin/debug/test2.jpeg)
-![Alt text](bin/debug/test3.jpeg)
+![Alt text](test.jpeg)
+![Alt text](test2.jpeg)
+![Alt text](test3.jpeg)
